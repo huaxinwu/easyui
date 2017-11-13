@@ -1,0 +1,8 @@
+Idea checkout项目步骤:
+file---new - -project from version control--git得到一个弹出框
+配置如下：
+git repository url: http://git.codeing.git
+parent diretory : e:\ideaproejct
+dirtory name:imarad
+
+idea单元测试自动添加：测试案例，如果去掉那个不再提示的弹出框，在代码覆盖提示框中点击edit选中右上角的share选项即可
